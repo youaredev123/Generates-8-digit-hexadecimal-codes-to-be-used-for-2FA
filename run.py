@@ -4,10 +4,10 @@ def main():
     while True:
 
         ## Generates 8-digit hexadecimal code
-        randomHex = secrets.token_hex(4)
+        randomHex = secrets.token_hex(4).upper()
 
         ## odd-looking hex code list. we can update these odd-looking list
-        odd_looking_words = ['aa', 'bb', 'cc', 'dd', 'ee', 'ff', 'ab', 'bc', 'cd', 'de', 'ef', '00', '11', '22', '33', '44', '55', '66', '77', '88', '99', '01', '12', '23', '34', '45', '56', '67', '78', '89']
+        odd_looking_words = ['AA', 'BB', 'CC', 'DD', 'EE', 'FF', 'AB', 'BC', 'CD', 'DE', 'EF', '00', '11', '22', '33', '44', '55', '66', '77', '88', '99', '01', '12', '23', '34', '45', '56', '67', '78', '89']
 
         ## validate random hex code if it contains any odd-looking hex code
         if any(odd in randomHex for odd in odd_looking_words):
