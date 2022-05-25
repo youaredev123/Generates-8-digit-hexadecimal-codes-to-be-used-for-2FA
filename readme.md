@@ -53,7 +53,7 @@ You should install the latest python 3 or anaconda
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/youaredev123/Generates-8-digit-hexadecimal-codes-to-be-used-for-2FA.git
    ```
 2. run hexwords_generate.py for creating hexspeak words list. it will create hexspeakwords.txt file.
    ```sh
