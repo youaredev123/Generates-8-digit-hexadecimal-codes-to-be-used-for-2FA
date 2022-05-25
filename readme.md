@@ -39,7 +39,7 @@ To generates 8-digit hexadecimal codes to be used for 2FA.
 ## Demo
 Demo video:
 
-https://user-images.githubusercontent.com/88067390/170325924-8bfce3fb-75f1-4b7b-ac55-6dd4bbc42a75.mp4
+https://user-images.githubusercontent.com/88067390/170351336-a9b424ae-72c5-4b5a-a58e-332946f6388c.mp4
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
