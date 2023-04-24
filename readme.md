@@ -1,7 +1,7 @@
 
 <div align="center">
 
-  <h1 align="center">Generates 8-digit hexadecimal codes to be used for 2FA</h1>
+  <h1 align="center">Generates 8-digit hexadecimal codes to be used for 2FA aaaaaa</h1>
 </div>
 
 
